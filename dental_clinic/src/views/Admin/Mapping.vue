@@ -2,12 +2,12 @@
   <div>
     <!-- Other components or content -->
     <headnav/>
-    <MapWithSearch></MapWithSearch>
+    <MapWithSearch/>
   </div>
 </template>
 
 <script>
-import headnav from '@/components/headnav.vue';
+import headnav from '@/components/headnav.vue'; // Adjust the path accordingly
 import MapWithSearch from '@/components/MapWithSearch.vue'; // Adjust the path accordingly
 
 export default {
